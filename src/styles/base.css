@@ -1,0 +1,13 @@
+.app-content {
+    box-sizing: border-box;
+    min-height: 100dvh;
+    padding-top: calc(48px + env(safe-area-inset-top));
+    padding-bottom: var(--bottom-chrome, calc(65px + env(safe-area-inset-bottom)));
+}
+.app-content.fullscreen {
+    height: 100dvh;
+    overflow: hidden;
+}
+.page {
+    padding: 10px 16px;
+}

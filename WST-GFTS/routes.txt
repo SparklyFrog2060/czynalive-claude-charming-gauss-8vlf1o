@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+B2,WST,B2,Wieliczka Centrum Dw. - Brzegi Pętla,700,9ACD32,000000
+D2,WST,D2,Wieliczka Centrum Dw. - Dobranowice Szkoła,700,9ACD32,000000
+G3,WST,G3,Wieliczka Centrum Dw. - Golkowice Pętla,700,9ACD32,000000
+G4,WST,G4,Wieliczka Centrum Dw. - Brzegi Pętla,700,9ACD32,000000
+J1,WST,J1,Wieliczka Centrum Dw. - Janowice Szkoła,700,9ACD32,000000
+L1,WST,L1,Wieliczka Centrum Dw. - Lednica Górna Zakręt,700,9ACD32,000000
+P2,WST,P2,Wieliczka Centrum Dw. - Podstolice Centrum,700,9ACD32,000000
+R2,WST,R2,Wieliczka Centrum Dw. - Jankówka Skrzyżowanie,700,9ACD32,000000
+R3,WST,R3,Sułów Przy Lesie - Raciborsko Szkoła,700,9ACD32,000000
+W2,WST,W2,Wieliczka Centrum Dw. - Węgrzce Wielkie Pętla,700,9ACD32,000000
+Z1,WST,Z1,Wieliczka Centrum Dw. - Węgrzce Wielkie Pętla,700,9ACD32,000000

@@ -1,0 +1,361 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+G4,WEEKDAY,40502239,Wieliczka Centrum Dw.,0,shape_1
+B2,WEEKDAY,40502150,Brzegi Pętla,0,shape_2
+G4,WEEKDAY,40502243,Wieliczka Centrum Dw.,0,shape_3
+Z1,WEEKDAY,40502702,Węgrzce Wielkie Pętla,0,shape_4
+W2,WEEKDAY,40502407,Wieliczka Centrum Dw.,0,shape_5
+B2,WEEKDAY,40502174,Wieliczka Centrum Dw.,1,shape_6
+G3,WEEKDAY,40502211,Wieliczka Centrum Dw.,0,shape_7
+J1,WEEKDAY,40502649,Wieliczka Centrum Dw.,0,shape_8
+Z1,WEEKDAY,40502699,Węgrzce Wielkie Pętla,0,shape_4
+W2,WEEKDAY,40502404,Wieliczka Centrum Dw.,0,shape_5
+R2,WEEKDAY,40502753,Jankówka Skrzyżowanie,0,shape_9
+B2,WEEKDAY,40502159,Brzegi Pętla,0,shape_2
+G4,WEEKDAY,40502249,Wieliczka Centrum Dw.,0,shape_3
+D2,WEEKDAY,40502144,Wieliczka Centrum Dw.,0,shape_10
+Z1,WEEKDAY,40502706,Węgrzce Wielkie Pętla,0,shape_4
+G4,WEEKDAY,40502220,Brzegi Pętla,1,shape_11
+B2,WEEKDAY,40502175,Wieliczka Centrum Dw.,1,shape_6
+G3,WEEKDAY,40502215,Wieliczka Centrum Dw.,0,shape_7
+J1,WEEKDAY,40502633,Wieliczka Centrum Dw.,0,shape_8
+L1,WEEKDAY,49671362,Wieliczka Centrum Dw.,0,shape_12
+R2,WEEKDAY,40502756,Jankówka Skrzyżowanie,0,shape_9
+G4,WEEKDAY,40502230,Brzegi Pętla,1,shape_11
+Z1,WEEKDAY,40502709,Węgrzce Wielkie Pętla,0,shape_4
+G4,WEEKDAY,40502221,Brzegi Pętla,1,shape_11
+G4,WEEKDAY,40502224,Brzegi Pętla,1,shape_11
+G3,WEEKDAY,40502214,Wieliczka Centrum Dw.,0,shape_7
+R2,WEEKDAY,40502765,Wieliczka Centrum Dw.,1,shape_13
+D2,WEEKDAY,40502138,Wieliczka Centrum Dw.,0,shape_10
+D2,WEEKDAY,40502139,Wieliczka Centrum Dw.,0,shape_10
+P2,WEEKDAY,40502348,Wieliczka Centrum Dw.,0,shape_14
+J1,WEEKDAY,40502638,Wieliczka Centrum Dw.,0,shape_8
+W2,WEEKDAY,40502400,Wieliczka Centrum Dw.,0,shape_5
+Z1,WEEKDAY,40502707,Węgrzce Wielkie Pętla,0,shape_4
+B2,WEEKDAY,40502155,Brzegi Pętla,0,shape_2
+J1,WEEKDAY,40502622,Janowice Szkoła,1,shape_15
+B2,WEEKDAY,40502184,Wieliczka Centrum Dw.,1,shape_6
+D2,WEEKDAY,40502146,Wieliczka Centrum Dw.,0,shape_10
+R2,WEEKDAY,40502763,Wieliczka Centrum Dw.,1,shape_13
+G4,WEEKDAY,40502247,Wieliczka Centrum Dw.,0,shape_3
+G4,WEEKDAY,40502240,Wieliczka Centrum Dw.,0,shape_3
+D2,WEEKDAY,40502145,Wieliczka Centrum Dw.,0,shape_10
+Z1,WEEKDAY,40502731,Wieliczka Centrum Dw.,1,shape_16
+B2,WEEKDAY,40502176,Wieliczka Centrum Dw.,1,shape_6
+D2,WEEKDAY,40502128,Dobranowice  Szkoła,1,shape_17
+B2,WEEKDAY,40502180,Wieliczka Centrum Dw.,1,shape_6
+J1,WEEKDAY,40502612,Janowice Szkoła,1,shape_15
+L1,WEEKDAY,49671368,Wieliczka Centrum Dw.,0,shape_12
+Z1,WEEKDAY,40502722,Wieliczka Centrum Dw.,1,shape_18
+Z1,WEEKDAY,40502723,Wieliczka Centrum Dw.,1,shape_16
+G3,WEEKDAY,40502201,Golkowice Pętla,1,shape_19
+B2,WEEKDAY,40502179,Wieliczka Centrum Dw.,1,shape_6
+P2,WEEKDAY,40502344,Wieliczka Centrum Dw.,0,shape_14
+Z1,WEEKDAY,40502698,Węgrzce Wielkie Pętla,0,shape_4
+L1,WEEKDAY,49671357,Lednica Górna Zakręt,1,shape_20
+L1,WEEKDAY,49671360,Lednica Górna Zakręt,1,shape_20
+G3,WEEKDAY,40502193,Golkowice Pętla,1,shape_19
+J1,WEEKDAY,40502645,Wieliczka Centrum Dw.,0,shape_8
+G3,WEEKDAY,40502196,Golkowice Pętla,1,shape_19
+J1,WEEKDAY,40502642,Wieliczka Centrum Dw.,0,shape_8
+P2,WEEKDAY,40502351,Wieliczka Centrum Dw.,0,shape_14
+L1,WEEKDAY,49671371,Wieliczka Centrum Dw.,0,shape_12
+B2,WEEKDAY,40502153,Brzegi Pętla,0,shape_2
+J1,WEEKDAY,40502636,Wieliczka Centrum Dw.,0,shape_8
+G3,WEEKDAY,40502200,Golkowice Pętla,1,shape_19
+B2,WEEKDAY,40502183,Wieliczka Centrum Dw.,1,shape_6
+G3,WEEKDAY,40502194,Golkowice Pętla,1,shape_19
+G3,WEEKDAY,40502197,Golkowice Pętla,1,shape_19
+J1,WEEKDAY,40502620,Janowice Szkoła,1,shape_15
+Z1,WEEKDAY,40502705,Węgrzce Wielkie Pętla,0,shape_4
+W2,WEEKDAY,40502403,Wieliczka Centrum Dw.,0,shape_5
+D2,WEEKDAY,40502147,Wieliczka Centrum Dw.,0,shape_10
+D2,WEEKDAY,40502143,Wieliczka Centrum Dw.,0,shape_10
+J1,WEEKDAY,40502624,Janowice Szkoła,1,shape_15
+G4,WEEKDAY,40502227,Brzegi Pętla,1,shape_11
+G4,WEEKDAY,40502219,Brzegi Pętla,1,shape_21
+B2,WEEKDAY,40502154,Brzegi Pętla,0,shape_2
+R2,WEEKDAY,40502762,Wieliczka Centrum Dw.,1,shape_13
+B2,WEEKDAY,40502156,Brzegi Pętla,0,shape_2
+Z1,WEEKDAY,40502713,Węgrzce Wielkie Pętla,0,shape_4
+D2,WEEKDAY,40502127,Dobranowice  Szkoła,1,shape_17
+Z1,WEEKDAY,40502725,Wieliczka Centrum Dw.,1,shape_16
+W2,WEEKDAY,40502401,Wieliczka Centrum Dw.,0,shape_5
+W2,WEEKDAY,40502399,Wieliczka Centrum Dw.,0,shape_5
+B2,WEEKDAY,40502181,Wieliczka Centrum Dw.,1,shape_6
+G4,WEEKDAY,40502242,Wieliczka Centrum Dw.,0,shape_3
+J1,WEEKDAY,40502615,Janowice Szkoła,1,shape_15
+Z1,WEEKDAY,40502701,Węgrzce Wielkie Pętla,0,shape_4
+D2,WEEKDAY,40502148,Wieliczka Centrum Dw.,0,shape_10
+G4,WEEKDAY,40502225,Brzegi Pętla,1,shape_21
+R2,WEEKDAY,40502752,Jankówka Skrzyżowanie,0,shape_9
+P2,WEEKDAY,40502339,Podstolice Centrum,1,shape_22
+J1,WEEKDAY,40502644,Wieliczka Centrum Dw.,0,shape_8
+L1,WEEKDAY,49671372,Wieliczka Centrum Dw.,0,shape_12
+G3,WEEKDAY,40502212,Wieliczka Centrum Dw.,0,shape_7
+Z1,WEEKDAY,40502712,Węgrzce Wielkie Pętla,0,shape_4
+Z1,WEEKDAY,40502730,Wieliczka Centrum Dw.,1,shape_16
+J1,WEEKDAY,40502648,Wieliczka Centrum Dw.,0,shape_8
+Z1,WEEKDAY,40502734,Wieliczka Centrum Dw.,1,shape_16
+P2,WEEKDAY,40502343,Wieliczka Centrum Dw.,0,shape_14
+P2,WEEKDAY,40502352,Wieliczka Centrum Dw.,0,shape_14
+J1,WEEKDAY,40502623,Janowice Szkoła,1,shape_15
+B2,WEEKDAY,40502178,Wieliczka Centrum Dw.,1,shape_6
+G4,WEEKDAY,40502245,Wieliczka Centrum Dw.,0,shape_1
+R2,WEEKDAY,40502749,Jankówka Skrzyżowanie,0,shape_9
+L1,WEEKDAY,49671369,Wieliczka Centrum Dw.,0,shape_12
+G3,WEEKDAY,40502210,Wieliczka Centrum Dw.,0,shape_7
+G3,WEEKDAY,40502213,Wieliczka Centrum Dw.,0,shape_7
+Z1,WEEKDAY,40502732,Wieliczka Centrum Dw.,1,shape_16
+G3,WEEKDAY,40502199,Golkowice Pętla,1,shape_19
+R2,WEEKDAY,40502754,Jankówka Skrzyżowanie,0,shape_9
+J1,WEEKDAY,40502635,Wieliczka Centrum Dw.,0,shape_8
+J1,WEEKDAY,40502618,Janowice Szkoła,1,shape_15
+L1,WEEKDAY,49671370,Wieliczka Centrum Dw.,0,shape_12
+B2,WEEKDAY,40502177,Wieliczka Centrum Dw.,1,shape_6
+W2,WEEKDAY,40502398,Węgrzce Wielkie Pętla,1,shape_23
+Z1,WEEKDAY,40502728,Wieliczka Centrum Dw.,1,shape_16
+D2,WEEKDAY,40502140,Wieliczka Centrum Dw.,0,shape_10
+J1,WEEKDAY,40502621,Janowice Szkoła,1,shape_15
+D2,WEEKDAY,40502123,Dobranowice  Szkoła,1,shape_17
+R2,WEEKDAY,40502747,Jankówka Skrzyżowanie,0,shape_9
+D2,WEEKDAY,40502129,Dobranowice  Szkoła,1,shape_17
+D2,WEEKDAY,40502130,Dobranowice  Szkoła,1,shape_17
+Z1,WEEKDAY,40502724,Wieliczka Centrum Dw.,1,shape_16
+G3,WEEKDAY,40502195,Golkowice Pętla,1,shape_19
+L1,WEEKDAY,49671363,Wieliczka Centrum Dw.,0,shape_12
+J1,WEEKDAY,40502650,Wieliczka Centrum Dw.,0,shape_8
+R2,WEEKDAY,40502748,Jankówka Skrzyżowanie,0,shape_9
+J1,WEEKDAY,40502634,Wieliczka Centrum Dw.,0,shape_8
+G4,WEEKDAY,40502246,Wieliczka Centrum Dw.,0,shape_3
+G4,WEEKDAY,40502226,Brzegi Pętla,1,shape_11
+R2,WEEKDAY,40502766,Wieliczka Centrum Dw.,1,shape_13
+G4,WEEKDAY,40502228,Brzegi Pętla,1,shape_11
+G3,WEEKDAY,40502198,Golkowice Pętla,1,shape_19
+G4,WEEKDAY,40502251,Wieliczka Centrum Dw.,0,shape_3
+L1,WEEKDAY,49671359,Lednica Górna Zakręt,1,shape_20
+Z1,WEEKDAY,40502721,Wieliczka Centrum Dw.,1,shape_18
+W2,WEEKDAY,40502390,Węgrzce Wielkie Pętla,1,shape_23
+J1,WEEKDAY,40502627,Janowice Szkoła,1,shape_15
+Z1,WEEKDAY,40502700,Węgrzce Wielkie Pętla,0,shape_4
+G4,WEEKDAY,40502252,Wieliczka Centrum Dw.,0,shape_1
+G4,WEEKDAY,40502223,Brzegi Pętla,1,shape_11
+J1,WEEKDAY,40502647,Wieliczka Centrum Dw.,0,shape_8
+L1,WEEKDAY,49671367,Wieliczka Centrum Dw.,0,shape_12
+L1,WEEKDAY,49671353,Lednica Górna Zakręt,1,shape_20
+W2,WEEKDAY,40502402,Wieliczka Centrum Dw.,0,shape_5
+P2,WEEKDAY,40502335,Podstolice Centrum,1,shape_22
+J1,WEEKDAY,40502646,Wieliczka Centrum Dw.,0,shape_8
+W2,WEEKDAY,40502405,Wieliczka Centrum Dw.,0,shape_5
+J1,WEEKDAY,40502640,Wieliczka Centrum Dw.,0,shape_8
+D2,WEEKDAY,40502124,Dobranowice  Szkoła,1,shape_17
+G3,WEEKDAY,40502192,Golkowice Pętla,1,shape_19
+L1,WEEKDAY,49671364,Wieliczka Centrum Dw.,0,shape_12
+R2,WEEKDAY,40502750,Jankówka Skrzyżowanie,0,shape_9
+Z1,WEEKDAY,40502719,Wieliczka Centrum Dw.,1,shape_16
+W2,WEEKDAY,40502397,Węgrzce Wielkie Pętla,1,shape_23
+L1,WEEKDAY,49671354,Lednica Górna Zakręt,1,shape_20
+G4,WEEKDAY,40502231,Brzegi Pętla,1,shape_11
+G3,WEEKDAY,40502216,Wieliczka Centrum Dw.,0,shape_7
+J1,WEEKDAY,40502619,Janowice Szkoła,1,shape_15
+W2,WEEKDAY,40502393,Węgrzce Wielkie Pętla,1,shape_23
+Z1,WEEKDAY,40502735,Wieliczka Centrum Dw.,1,shape_16
+P2,WEEKDAY,40502336,Podstolice Centrum,1,shape_22
+J1,WEEKDAY,40502625,Janowice Szkoła,1,shape_15
+P2,WEEKDAY,40502333,Podstolice Centrum,1,shape_22
+D2,WEEKDAY,40502126,Dobranowice  Szkoła,1,shape_17
+Z1,WEEKDAY,40502720,Wieliczka Centrum Dw.,1,shape_16
+P2,WEEKDAY,40502338,Podstolice Centrum,1,shape_22
+J1,WEEKDAY,40502637,Wieliczka Centrum Dw.,0,shape_8
+Z1,WEEKDAY,40502704,Węgrzce Wielkie Pętla,0,shape_4
+G4,WEEKDAY,40502229,Brzegi Pętla,1,shape_11
+D2,WEEKDAY,40502142,Wieliczka Centrum Dw.,0,shape_10
+B2,WEEKDAY,40502151,Brzegi Pętla,0,shape_2
+P2,WEEKDAY,40502332,Podstolice Centrum,1,shape_22
+Z1,WEEKDAY,40502727,Wieliczka Centrum Dw.,1,shape_18
+W2,WEEKDAY,40502391,Węgrzce Wielkie Pętla,1,shape_23
+R2,WEEKDAY,40502770,Wieliczka Centrum Dw.,1,shape_13
+L1,WEEKDAY,49671366,Wieliczka Centrum Dw.,0,shape_12
+W2,WEEKDAY,40502395,Węgrzce Wielkie Pętla,1,shape_23
+L1,WEEKDAY,49671361,Lednica Górna Zakręt,1,shape_20
+G4,WEEKDAY,40502250,Wieliczka Centrum Dw.,0,shape_3
+Z1,WEEKDAY,40502703,Węgrzce Wielkie Pętla,0,shape_4
+P2,WEEKDAY,40502340,Podstolice Centrum,1,shape_22
+W2,WEEKDAY,40502396,Węgrzce Wielkie Pętla,1,shape_23
+P2,WEEKDAY,40502350,Wieliczka Centrum Dw.,0,shape_14
+G4,WEEKDAY,40502244,Wieliczka Centrum Dw.,0,shape_3
+R2,WEEKDAY,40502764,Wieliczka Centrum Dw.,1,shape_13
+L1,WEEKDAY,49671355,Lednica Górna Zakręt,1,shape_20
+B2,WEEKDAY,40502149,Brzegi Pętla,0,shape_2
+Z1,WEEKDAY,40502708,Węgrzce Wielkie Pętla,0,shape_4
+Z1,WEEKDAY,40502711,Węgrzce Wielkie Pętla,0,shape_4
+Z1,WEEKDAY,40502729,Wieliczka Centrum Dw.,1,shape_16
+L1,WEEKDAY,49671352,Lednica Górna Zakręt,1,shape_20
+R2,WEEKDAY,40502751,Jankówka Skrzyżowanie,0,shape_9
+J1,WEEKDAY,40502617,Janowice Szkoła,1,shape_15
+R2,WEEKDAY,40502755,Jankówka Skrzyżowanie,0,shape_9
+Z1,WEEKDAY,40502714,Węgrzce Wielkie Pętla,0,shape_4
+D2,WEEKDAY,40502131,Dobranowice  Szkoła,1,shape_17
+R2,WEEKDAY,40502768,Wieliczka Centrum Dw.,1,shape_13
+P2,WEEKDAY,40502334,Podstolice Centrum,1,shape_22
+J1,WEEKDAY,40502611,Janowice Szkoła,1,shape_15
+B2,WEEKDAY,40502152,Brzegi Pętla,0,shape_2
+L1,WEEKDAY,49671365,Wieliczka Centrum Dw.,0,shape_12
+J1,WEEKDAY,40502614,Janowice Szkoła,1,shape_15
+Z1,WEEKDAY,40502726,Wieliczka Centrum Dw.,1,shape_16
+G4,WEEKDAY,40502241,Wieliczka Centrum Dw.,0,shape_3
+R2,WEEKDAY,40502769,Wieliczka Centrum Dw.,1,shape_13
+P2,WEEKDAY,40502341,Podstolice Centrum,1,shape_22
+J1,WEEKDAY,40502626,Janowice Szkoła,1,shape_15
+W2,WEEKDAY,40502406,Wieliczka Centrum Dw.,0,shape_5
+G4,WEEKDAY,40502222,Brzegi Pętla,1,shape_11
+P2,WEEKDAY,40502345,Wieliczka Centrum Dw.,0,shape_14
+P2,WEEKDAY,40502349,Wieliczka Centrum Dw.,0,shape_14
+J1,WEEKDAY,40502613,Janowice Szkoła,1,shape_15
+W2,WEEKDAY,40502394,Węgrzce Wielkie Pętla,1,shape_23
+P2,WEEKDAY,40502346,Wieliczka Centrum Dw.,0,shape_14
+D2,WEEKDAY,40502125,Dobranowice  Szkoła,1,shape_17
+P2,WEEKDAY,40502347,Wieliczka Centrum Dw.,0,shape_14
+J1,WEEKDAY,40502641,Wieliczka Centrum Dw.,0,shape_8
+G3,WEEKDAY,40502209,Wieliczka Centrum Dw.,0,shape_7
+B2,WEEKDAY,40502158,Brzegi Pętla,0,shape_2
+J1,WEEKDAY,40502639,Wieliczka Centrum Dw.,0,shape_8
+L1,WEEKDAY,49671358,Lednica Górna Zakręt,1,shape_20
+G3,WEEKDAY,40502218,Wieliczka Centrum Dw.,0,shape_7
+J1,WEEKDAY,40502628,Janowice Szkoła,1,shape_15
+D2,WEEKDAY,40502141,Wieliczka Centrum Dw.,0,shape_10
+Z1,WEEKDAY,40502733,Wieliczka Centrum Dw.,1,shape_16
+P2,WEEKDAY,40502342,Wieliczka Centrum Dw.,0,shape_14
+Z1,WEEKDAY,40502710,Węgrzce Wielkie Pętla,0,shape_4
+J1,WEEKDAY,40502616,Janowice Szkoła,1,shape_15
+W2,WEEKDAY,40502408,Wieliczka Centrum Dw.,0,shape_5
+G4,WEEKDAY,40502232,Brzegi Pętla,1,shape_21
+R2,WEEKDAY,40502767,Wieliczka Centrum Dw.,1,shape_13
+G4,WEEKDAY,40502248,Wieliczka Centrum Dw.,0,shape_3
+B2,WEEKDAY,40502182,Wieliczka Centrum Dw.,1,shape_6
+D2,WEEKDAY,40502121,Dobranowice  Szkoła,1,shape_17
+B2,WEEKDAY,40502157,Brzegi Pętla,0,shape_2
+D2,WEEKDAY,40502122,Dobranowice  Szkoła,1,shape_17
+G3,WEEKDAY,40502217,Wieliczka Centrum Dw.,0,shape_7
+J1,WEEKDAY,40502643,Wieliczka Centrum Dw.,0,shape_8
+L1,WEEKDAY,49671356,Lednica Górna Zakręt,1,shape_20
+W2,WEEKDAY,40502389,Węgrzce Wielkie Pętla,1,shape_23
+R2,WEEKDAY,40502761,Wieliczka Centrum Dw.,1,shape_13
+P2,WEEKDAY,40502337,Podstolice Centrum,1,shape_22
+W2,WEEKDAY,40502392,Węgrzce Wielkie Pętla,1,shape_23
+J1,SATURDAY,SATURDAY_40502609,Janowice Szkoła,1,shape_15
+Z1,SATURDAY,SATURDAY_40502695,Węgrzce Wielkie Pętla,0,shape_4
+Z1,SATURDAY,SATURDAY_40502739,Wieliczka Centrum Dw.,1,shape_16
+R2,SATURDAY,SATURDAY_40502759,Jankówka Skrzyżowanie,0,shape_9
+W2,SATURDAY,SATURDAY_40502413,Wieliczka Centrum Dw.,0,shape_5
+G3,SATURDAY,SATURDAY_40502191,Golkowice Pętla,1,shape_19
+J1,SATURDAY,SATURDAY_40502656,Wieliczka Centrum Dw.,0,shape_8
+Z1,SATURDAY,SATURDAY_40502692,Węgrzce Wielkie Pętla,0,shape_4
+Z1,SATURDAY,SATURDAY_40502741,Wieliczka Centrum Dw.,1,shape_16
+W2,SATURDAY,SATURDAY_40502386,Węgrzce Wielkie Pętla,1,shape_23
+J1,SATURDAY,SATURDAY_40502653,Wieliczka Centrum Dw.,0,shape_8
+G4,SATURDAY,SATURDAY_40502237,Brzegi Pętla,1,shape_11
+B2,SATURDAY,SATURDAY_40502171,Wieliczka Centrum Dw.,1,shape_6
+G3,SATURDAY,SATURDAY_40502189,Golkowice Pętla,1,shape_19
+W2,SATURDAY,SATURDAY_40502414,Wieliczka Centrum Dw.,0,shape_5
+Z1,SATURDAY,SATURDAY_40502693,Węgrzce Wielkie Pętla,0,shape_4
+W2,SATURDAY,SATURDAY_40502384,Węgrzce Wielkie Pętla,1,shape_23
+R2,SATURDAY,SATURDAY_40502774,Wieliczka Centrum Dw.,1,shape_13
+W2,SATURDAY,SATURDAY_40502415,Wieliczka Centrum Dw.,0,shape_5
+W2,SATURDAY,SATURDAY_40502387,Węgrzce Wielkie Pętla,1,shape_23
+D2,SATURDAY,SATURDAY_40502133,Grajów Boisko,0,shape_24
+W2,SATURDAY,SATURDAY_40502381,Węgrzce Wielkie Pętla,1,shape_23
+G4,SATURDAY,SATURDAY_40502235,Brzegi Pętla,1,shape_11
+B2,SATURDAY,SATURDAY_40502165,Brzegi Pętla,0,shape_2
+D2,SATURDAY,SATURDAY_40502136,Wieliczka Centrum Dw.,0,shape_25
+W2,SATURDAY,SATURDAY_40502385,Węgrzce Wielkie Pętla,1,shape_23
+G4,SATURDAY,SATURDAY_40502234,Brzegi Pętla,1,shape_11
+B2,SATURDAY,SATURDAY_40502161,Brzegi Pętla,0,shape_2
+G4,SATURDAY,SATURDAY_40502238,Brzegi Pętla,1,shape_11
+B2,SATURDAY,SATURDAY_40502172,Wieliczka Centrum Dw.,1,shape_6
+G3,SATURDAY,SATURDAY_40502204,Wieliczka Centrum Dw.,0,shape_7
+B2,SATURDAY,SATURDAY_40502164,Brzegi Pętla,0,shape_2
+G4,SATURDAY,SATURDAY_40502254,Wieliczka Centrum Dw.,0,shape_3
+Z1,SATURDAY,SATURDAY_40502696,Węgrzce Wielkie Pętla,0,shape_4
+G3,SATURDAY,SATURDAY_40502207,Wieliczka Centrum Dw.,0,shape_7
+G3,SATURDAY,SATURDAY_40502208,Wieliczka Centrum Dw.,0,shape_7
+W2,SATURDAY,SATURDAY_40502383,Węgrzce Wielkie Pętla,1,shape_23
+R2,SATURDAY,SATURDAY_40502772,Wieliczka Centrum Dw.,1,shape_13
+Z1,SATURDAY,SATURDAY_40502740,Wieliczka Centrum Dw.,1,shape_16
+D2,SATURDAY,SATURDAY_40502135,Wieliczka Centrum Dw.,0,shape_25
+B2,SATURDAY,SATURDAY_40502173,Wieliczka Centrum Dw.,1,shape_6
+G4,SATURDAY,SATURDAY_40502258,Wieliczka Centrum Dw.,0,shape_3
+G3,SATURDAY,SATURDAY_40502202,Wieliczka Centrum Dw.,0,shape_7
+G3,SATURDAY,SATURDAY_40502203,Wieliczka Centrum Dw.,0,shape_7
+B2,SATURDAY,SATURDAY_40502160,Brzegi Pętla,0,shape_2
+G4,SATURDAY,SATURDAY_40502253,Wieliczka Centrum Dw.,0,shape_1
+J1,SATURDAY,SATURDAY_40502610,Janowice Szkoła,1,shape_15
+Z1,SATURDAY,SATURDAY_40502697,Węgrzce Wielkie Pętla,0,shape_4
+Z1,SATURDAY,SATURDAY_40502742,Wieliczka Centrum Dw.,1,shape_16
+R2,SATURDAY,SATURDAY_40502760,Jankówka Skrzyżowanie,0,shape_9
+G3,SATURDAY,SATURDAY_40502185,Golkowice Pętla,1,shape_19
+B2,SATURDAY,SATURDAY_40502169,Wieliczka Centrum Dw.,1,shape_6
+Z1,SATURDAY,SATURDAY_40502694,Węgrzce Wielkie Pętla,0,shape_4
+J1,SATURDAY,SATURDAY_40502655,Wieliczka Centrum Dw.,0,shape_8
+B2,SATURDAY,SATURDAY_40502168,Wieliczka Centrum Dw.,1,shape_6
+W2,SATURDAY,SATURDAY_40502388,Węgrzce Wielkie Pętla,1,shape_23
+G3,SATURDAY,SATURDAY_40502205,Wieliczka Centrum Dw.,0,shape_7
+B2,SATURDAY,SATURDAY_40502163,Brzegi Pętla,0,shape_2
+Z1,SATURDAY,SATURDAY_40502736,Wieliczka Centrum Dw.,1,shape_16
+J1,SATURDAY,SATURDAY_40502657,Wieliczka Centrum Dw.,0,shape_8
+J1,SATURDAY,SATURDAY_40502606,Janowice Szkoła,1,shape_15
+G3,SATURDAY,SATURDAY_40502190,Golkowice Pętla,1,shape_19
+W2,SATURDAY,SATURDAY_40502416,Wieliczka Centrum Dw.,0,shape_5
+W2,SATURDAY,SATURDAY_40502382,Węgrzce Wielkie Pętla,1,shape_23
+B2,SATURDAY,SATURDAY_40502162,Brzegi Pętla,0,shape_2
+R2,SATURDAY,SATURDAY_40502757,Jankówka Skrzyżowanie,0,shape_9
+B2,SATURDAY,SATURDAY_40502166,Brzegi Pętla,0,shape_2
+W2,SATURDAY,SATURDAY_40502409,Wieliczka Centrum Dw.,0,shape_5
+J1,SATURDAY,SATURDAY_40502658,Wieliczka Centrum Dw.,0,shape_8
+G4,SATURDAY,SATURDAY_40502233,Brzegi Pętla,1,shape_21
+J1,SATURDAY,SATURDAY_40502651,Wieliczka Centrum Dw.,0,shape_8
+J1,SATURDAY,SATURDAY_40502607,Janowice Szkoła,1,shape_15
+Z1,SATURDAY,SATURDAY_40502737,Wieliczka Centrum Dw.,1,shape_16
+B2,SATURDAY,SATURDAY_40502167,Wieliczka Centrum Dw.,1,shape_6
+W2,SATURDAY,SATURDAY_40502412,Wieliczka Centrum Dw.,0,shape_5
+R2,SATURDAY,SATURDAY_40502771,Wieliczka Centrum Dw.,1,shape_13
+G4,SATURDAY,SATURDAY_40502236,Brzegi Pętla,1,shape_11
+D2,SATURDAY,SATURDAY_40502137,Wieliczka Centrum Dw.,0,shape_25
+G4,SATURDAY,SATURDAY_40502255,Wieliczka Centrum Dw.,0,shape_3
+G4,SATURDAY,SATURDAY_40502256,Wieliczka Centrum Dw.,0,shape_3
+Z1,SATURDAY,SATURDAY_40502738,Wieliczka Centrum Dw.,1,shape_16
+R2,SATURDAY,SATURDAY_40502758,Jankówka Skrzyżowanie,0,shape_9
+J1,SATURDAY,SATURDAY_40502603,Janowice Szkoła,1,shape_15
+J1,SATURDAY,SATURDAY_40502652,Wieliczka Centrum Dw.,0,shape_8
+B2,SATURDAY,SATURDAY_40502170,Wieliczka Centrum Dw.,1,shape_6
+J1,SATURDAY,SATURDAY_40502654,Wieliczka Centrum Dw.,0,shape_8
+Z1,SATURDAY,SATURDAY_40502691,Węgrzce Wielkie Pętla,0,shape_4
+W2,SATURDAY,SATURDAY_40502410,Wieliczka Centrum Dw.,0,shape_5
+R2,SATURDAY,SATURDAY_40502773,Wieliczka Centrum Dw.,1,shape_13
+J1,SATURDAY,SATURDAY_40502608,Janowice Szkoła,1,shape_15
+G3,SATURDAY,SATURDAY_40502206,Wieliczka Centrum Dw.,0,shape_7
+G3,SATURDAY,SATURDAY_40502186,Golkowice Pętla,1,shape_19
+J1,SATURDAY,SATURDAY_40502605,Janowice Szkoła,1,shape_15
+D2,SATURDAY,SATURDAY_40502134,Grajów Boisko,0,shape_24
+J1,SATURDAY,SATURDAY_40502604,Janowice Szkoła,1,shape_15
+G4,SATURDAY,SATURDAY_40502257,Wieliczka Centrum Dw.,0,shape_3
+G3,SATURDAY,SATURDAY_40502187,Golkowice Pętla,1,shape_19
+W2,SATURDAY,SATURDAY_40502411,Wieliczka Centrum Dw.,0,shape_5
+D2,SATURDAY,SATURDAY_40502132,Grajów Boisko,0,shape_24
+G3,SATURDAY,SATURDAY_40502188,Golkowice Pętla,1,shape_19
+Z1,SUNDAY,SUNDAY_40502745,Wieliczka Centrum Dw.,1,shape_16
+Z1,SUNDAY,SUNDAY_40502746,Wieliczka Centrum Dw.,1,shape_16
+J1,SUNDAY,SUNDAY_40502632,Janowice Szkoła,1,shape_15
+J1,SUNDAY,SUNDAY_40502631,Janowice Szkoła,1,shape_15
+Z1,SUNDAY,SUNDAY_40502716,Węgrzce Wielkie Pętla,0,shape_4
+Z1,SUNDAY,SUNDAY_40502715,Węgrzce Wielkie Pętla,0,shape_4
+Z1,SUNDAY,SUNDAY_40502744,Wieliczka Centrum Dw.,1,shape_16
+Z1,SUNDAY,SUNDAY_40502743,Wieliczka Centrum Dw.,1,shape_16
+Z1,SUNDAY,SUNDAY_40502718,Węgrzce Wielkie Pętla,0,shape_4
+J1,SUNDAY,SUNDAY_40502629,Janowice Szkoła,1,shape_15
+J1,SUNDAY,SUNDAY_40502630,Janowice Szkoła,1,shape_15
+J1,SUNDAY,SUNDAY_40502659,Wieliczka Centrum Dw.,0,shape_8
+J1,SUNDAY,SUNDAY_40502661,Wieliczka Centrum Dw.,0,shape_8
+Z1,SUNDAY,SUNDAY_40502717,Węgrzce Wielkie Pętla,0,shape_4
+J1,SUNDAY,SUNDAY_40502660,Wieliczka Centrum Dw.,0,shape_8
+J1,SUNDAY,SUNDAY_40502662,Wieliczka Centrum Dw.,0,shape_8

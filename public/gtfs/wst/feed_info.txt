@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_version
+SparklyFrog2060,https://github.com/SparklyFrog2060,pl,1.0
